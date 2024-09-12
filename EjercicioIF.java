@@ -1,3 +1,6 @@
+/* 
+
+
 public class EjercicioIF {
     float salarioSinAjuste;
     float aumento;
@@ -18,3 +21,4 @@ public float calcularSalario(){
    return salarioConAjuste;
 }
 }
+*/
